@@ -1,0 +1,85 @@
+{
+  "tools": [
+    {
+      "nr": 1,
+      "path": "0.8mm_BlueCoat_Endmill.fctb"
+    },
+    {
+      "nr": 2,
+      "path": "0.8mm_Titanium_Endmill.fctb"
+    },
+    {
+      "nr": 3,
+      "path": "1.2mm_BlueCoat_Endmill.fctb"
+    },
+    {
+      "nr": 4,
+      "path": "1.2mm_Titanium_Endmill.fctb"
+    },
+    {
+      "nr": 5,
+      "path": "1.4mm_BlueCoat_Endmill.fctb"
+    },
+    {
+      "nr": 6,
+      "path": "1.4mm_Titanium_Endmill.fctb"
+    },
+    {
+      "nr": 7,
+      "path": "1.6mm_BlueCoat_Endmill.fctb"
+    },
+    {
+      "nr": 8,
+      "path": "1.6mm_Titanium_Endmill.fctb"
+    },
+    {
+      "nr": 9,
+      "path": "1.8mm_BlueCoat_Endmill.fctb"
+    },
+    {
+      "nr": 10,
+      "path": "1.8mm_Titanium_Endmill.fctb"
+    },
+    {
+      "nr": 11,
+      "path": "1mm_BlueCoat_Endmill.fctb"
+    },
+    {
+      "nr": 12,
+      "path": "1mm_Titanium_Endmill.fctb"
+    },
+    {
+      "nr": 13,
+      "path": "2.5mm_BlueCoat_Endmill.fctb"
+    },
+    {
+      "nr": 14,
+      "path": "2.5mm_Titanium_Endmill.fctb"
+    },
+    {
+      "nr": 15,
+      "path": "2mm_BlueCoat_Endmill.fctb"
+    },
+    {
+      "nr": 16,
+      "path": "2mm_Titanium_Endmill.fctb"
+    },
+    {
+      "nr": 17,
+      "path": "3.175mm_2F_ballnose.fctb"
+    },
+    {
+      "nr": 18,
+      "path": "3.175mm_2F_bullnose.fctb"
+    },
+    {
+      "nr": 19,
+      "path": "3mm_BlueCoat_Endmill.fctb"
+    },
+    {
+      "nr": 20,
+      "path": "3mm_Titanium_Endmill.fctb"
+    }
+  ],
+  "version": 1
+}
